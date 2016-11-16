@@ -1,3 +1,3 @@
 # tidy-gif-looper
 
-Tidy gif Looper program in Java
+Auto infinite looping gif program in Java
